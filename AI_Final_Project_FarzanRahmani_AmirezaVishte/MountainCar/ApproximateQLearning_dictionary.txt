@@ -1,0 +1,1 @@
+{"position":-0.0247857185,"velocity":0.4310014306,"accelerating":-10.0102290989,"decelerating":-10.0132981964,"coasting":-10.0141696482}
